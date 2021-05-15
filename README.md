@@ -1,1 +1,2 @@
-# Infinite-Runner-Game-P37-
+# trex
+Chrome's trex game created using p5.play
